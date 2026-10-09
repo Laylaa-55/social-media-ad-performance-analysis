@@ -160,6 +160,4 @@ These findings can guide future campaign experiments. Real-world decisions shoul
 
 Python | Pandas | NumPy | EDA | Data Cleaning | Feature Engineering | KPI Analysis | Correlation Analysis | Data Visualization | Business Insights
 
----
 
-**Note:** This project is intended for learning and portfolio demonstration using simulated advertising data.
